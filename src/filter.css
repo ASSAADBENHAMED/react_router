@@ -1,0 +1,18 @@
+.col {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 40px 0;
+    padding: 15px 0;
+    background-color:rosybrown;
+  }
+  .search {
+    width: 400px;
+    padding: 0px;
+    margin: 0px;
+    height: 40px;
+  }
+  
+  .searchbtn {
+    height: 40px;
+  }
